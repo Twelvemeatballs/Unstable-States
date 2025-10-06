@@ -14,7 +14,7 @@ The aim:
 - Discover whether a tourist can practically live on-chain.  
 - Explore instability — financial, geographic, psychological — as both constraint and material.  
 
-## Structure  
+## Intent  
 
 I expect that this repo will include rough notes about:
 - **Pre-departure research** 
