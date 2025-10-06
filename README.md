@@ -41,4 +41,3 @@ Share, remix, and build upon it — just don’t sell it or pretend it’s yours
 
 **Author:** TwelveMeatballs  
 **Project:** *Unstable States* (2025)  
-**Tagline:** Stablecoins, unstable plans, and a flight to Buenos Aires.
