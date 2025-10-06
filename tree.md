@@ -14,4 +14,4 @@ unstable-states/
 
 **Purpose:**  
 This file exists to remind me what I *thought* I was doing at the beginning.  
-Folder names may evolve as the experiment mutates.  
+Folder names may mutate without warning.  
